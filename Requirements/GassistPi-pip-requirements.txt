@@ -15,7 +15,7 @@ requests>=2.20.1
 pushbullet.py>=0.11.0
 python-vlc>=3.0.4106
 git+https://github.com/plamere/spotipy.git
-pyyaml==3.13
+pyyaml==5.4
 spidev>=3.2
 gpiozero>=1.4.1
 numpy>=1.15.4
@@ -25,4 +25,4 @@ paho-mqtt==1.4.0
 google-cloud-texttospeech==0.3.0
 google-cloud-speech==0.36.0
 adafruit-io==2.1
-cryptography==2.4.2
+cryptography==3.2
