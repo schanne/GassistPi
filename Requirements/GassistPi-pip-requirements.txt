@@ -19,7 +19,7 @@ pyyaml==3.13
 spidev>=3.2
 gpiozero>=1.4.1
 numpy>=1.15.4
-pycryptodomex==3.7.2
+pycryptodomex==3.19.1
 git+https://github.com/shivasiddharth/py-googletrans.git
 paho-mqtt==1.4.0
 google-cloud-texttospeech==0.3.0
